@@ -1,2 +1,8 @@
+.holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  gap: 1rem; /* Optional: adds consistent spacing between items */
+}
 
 /* Your CSS Code here. */
